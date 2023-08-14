@@ -1,17 +1,17 @@
 {
   "name": "dmc-cli",
   "version": "0.0.1",
-  "description": "脚手架测试",
+  "description": "个人使用的脚手架.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "config": {
+    "sign-git-tag": true,
+    "git-tag-version": true
   },
   "bin": {
     "dmc-cli": "bin/main"
   },
   "keywords": [
-    "cli",
-    "nodejs"
+    "cli"
   ],
   "author": "xiongyongsheng",
   "license": "ISC",
