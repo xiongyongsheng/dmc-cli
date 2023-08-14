@@ -1,6 +1,6 @@
 {
   "name": "dmc-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "个人使用的脚手架.",
   "main": "index.js",
   "config": {
